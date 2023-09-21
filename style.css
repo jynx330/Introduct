@@ -1,0 +1,13 @@
+body{
+    font-family: monospace, sans-serif;
+    
+}
+
+.font-primary{
+    color: blueviolet;
+}
+
+.navbar-brand{
+    font-size: 50px;
+    font-weight: bolder;
+}
